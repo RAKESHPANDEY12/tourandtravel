@@ -1,2 +1,2 @@
 # tourandtravel
-frontend project using html and css.
+frontend project using html,css and javascript.
