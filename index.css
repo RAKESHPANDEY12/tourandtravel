@@ -25,7 +25,8 @@ html{
     scroll-behavior: smooth;
 }
 header{
-  position:fixed;
+width:100vw;
+    position:fixed;
 top:0;
 left:0;
 right:0;
@@ -474,6 +475,10 @@ text-transform: none;
 }
 .brand-container{
     text-align: center;
+    width:100vw;
+    overflow-x:hidden;
+      margin-top: 3rem;
+    margin-bottom: 2rem;
 }
 .footer{
     background: #333;
